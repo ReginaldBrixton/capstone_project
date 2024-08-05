@@ -33,7 +33,7 @@ This is a Nuxt.js project for a student capstone project portal. The portal allo
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/capstone-project-portal.git
+   git clone https://github.com/ReginaldBrixton/capstone_project.git
    ```
 
 2. Navigate to the project directory:
